@@ -24,3 +24,7 @@ Our goal is to develop the technologies to support a "digital twin" of physical 
 - Penn State Mapping Vehicle
 ![Image](https://github.com/psudigitaltwin/psudigitaltwin.github.io/blob/main/MappingVan.png)
 
+# Broader impacts
+
+# Funding
+This project is funded by Pennsylvania Department of Transportation under NOFO # 693JJ319NF00001.
