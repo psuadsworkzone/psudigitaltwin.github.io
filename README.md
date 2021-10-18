@@ -16,9 +16,11 @@ Our goal is to develop the technologies to support a "digital twin" of physical 
 # Team members
 
 # How it works
-![Image](https://github.com/psudigitaltwin/psudigitaltwin.github.io/blob/main/WorkFlow.png)
+<br>
+![](./WorkFlow.png)
+
 # Code repositories
-[Link](https://github.com/ivsg-psu/Databases_Projects_DigitalTwin/wiki)
+[Digital Twin Repo](https://github.com/ivsg-psu/Databases_Projects_DigitalTwin/wiki)
 
 # Testing vehicle
 - Penn State Mapping Vehicle
