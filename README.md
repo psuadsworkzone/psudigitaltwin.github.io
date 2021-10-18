@@ -1,4 +1,4 @@
-# Background
+# Digital Twin project 
 An ideal digital twin is a database that we can access that allows us to know the current exact state of these areas to a level that we can use the database for real-time decision making. In our work, we are focused on driving, but the technology we are developing could be applied to just about any system or situation: a manufacturing plant, a shopping mall, or a power grid.
 
 Digital twins involve three aspects:
