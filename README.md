@@ -47,6 +47,11 @@ However, even in this simple case, many substantial challenges exist. Among thes
 # Broader impacts
 Digital twins have found much usage in many different disciplines, particularly those where materials are too expensive or complicated to reliably test with. For example, digital twins came about within NASA as a method to improve their abilities to test their spacecraft in simulations without putting too much risk to their equipment. While this work is currently aimed at simple use cases, this work can easily be expanded under these primary goals to handle more and more complicated vehicular systems. For example, handling road signs becomes a matter of adding stronger pictoral recognition and algorithms within the digital twin, enabling the algorithm to handle these more complicated systems. Yet with this added information comes additional bandwidth bloat, which reinforces the idea of minimal data solutions more.
 
+# Groups with related interests
+Please see links below for other research groups with related interests:
+<br>
+[Evaluation of Work Zone Safety Using SHRP2 Naturalistic Driving Study Data.](https://intrans.iastate.edu/research/in-progress/evaluation-of-work-zone-safety-using-shrp2-naturalistic-driving-study-data/)
+
 # Digital Twin Applications
 Digital twin technology can be applied on many aspects, including Immersive simulations, climate change, animal tracking etc.
 [Augmenting air combat training.](https://www.asme.org/topics-resources/content/augmenting-air-combat-training)
