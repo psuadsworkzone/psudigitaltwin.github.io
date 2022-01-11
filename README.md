@@ -30,7 +30,7 @@ However, even in this simple case, many substantial challenges exist. Among thes
 
   Dr. Sean Brennan         |  Dr. Katie Fitzsimons 
 :-------------------------:|:-------------------------:
-<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/brennan-sean_2017.jpg?raw=true" height = "260" width= "250">  |  <img src="https://user-images.githubusercontent.com/66030812/148872471-088bf3ee-8256-45b1-836e-6d51d16c8586.jpg?raw=true" style="width: 200%">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/brennan-sean_2017.jpg?raw=true" height = "260" width= "250">  |  <img src="https://user-images.githubusercontent.com/66030812/148872471-088bf3ee-8256-45b1-836e-6d51d16c8586.jpg?raw=true" height = "260" width= "250">
 
  
 
