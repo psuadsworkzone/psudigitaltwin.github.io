@@ -23,12 +23,29 @@ However, even in this simple case, many substantial challenges exist. Among thes
  3. Setting up additional devices for edge computing (IoT design). In order to help accommodate goal 2, these edge devices should be able to help ease some of the computational goals of the vehicle, such as locating itself in GPS coordinates, relaying road information, etc.
 
 # Team members (work-in-progress)
+ 
+  ## Project PIs
+  
 
- - Dr. Sean Brennan
- - Maddipatla Satya Prasad
- - Wushuang Bai
- - Liming Gao
- - Xinyu Cao
+
+  Dr. Sean Brennan         |  Dr. Katie Fitzsimons 
+:-------------------------:|:-------------------------:
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/brennan-sean_2017.jpg?raw=true" height = "260" width= "250">  |  <img src="https://user-images.githubusercontent.com/66030812/148872471-088bf3ee-8256-45b1-836e-6d51d16c8586.jpg?raw=true" height = "260" width= "250">
+
+ 
+
+
+   ## Students
+
+ Maddipatla Satya Prasad   |  Wushuang Bai             | Liming Gao                | Xinyu Cao
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src ="https://user-images.githubusercontent.com/66030812/148874623-e1d5d245-d73a-4627-84d4-d3e6ebe4a59a.jpg?raw=true" height = "200" width= "200">  | <img src="https://user-images.githubusercontent.com/66030812/148874647-b4cdc4b8-b89f-4a1f-84ee-668c88bc0c23.jpg?raw=true" height = "200" width= "200"> | <img src="https://user-images.githubusercontent.com/66030812/148875266-8b5677b8-01df-46fd-8fbd-e02e0ea36858.jpg?raw=true" height = "200" width= "200"> |  <img src="https://user-images.githubusercontent.com/66030812/148875578-b771c5a6-ba7f-4ed7-be9f-0eea22f8b732.jpg?raw=true" height = "200" width= "200">
+
+
+Maddipatla Satya Prasad    |
+:-------------------------:|
+<img src="https://user-images.githubusercontent.com/66030812/148875815-0ac99750-eeb3-4379-b84d-380cca94d872.jpg?raw=true" height = "200" width= "200">|
+
  - Julian Sim
  - Jack Csernica
 
