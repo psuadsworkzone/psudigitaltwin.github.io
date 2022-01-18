@@ -43,7 +43,7 @@ However, even in this simple case, many substantial challenges exist. Among thes
 
  Zhiqing Lu                |  Jack Csernica            | Julian Sim
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/66030812/148875815-0ac99750-eeb3-4379-b84d-380cca94d872.jpg?raw=true" height = "200" width= "200"> | <img src= "https://user-images.githubusercontent.com/66030812/149390741-47366379-5bc4-4b2f-952c-597b2233e913.jpg?raw=true" height = "200" width= "200"> | 
+<img src="https://user-images.githubusercontent.com/66030812/148875815-0ac99750-eeb3-4379-b84d-380cca94d872.jpg?raw=true" height = "200" width= "200"> | <img src= "https://user-images.githubusercontent.com/66030812/149390741-47366379-5bc4-4b2f-952c-597b2233e913.jpg?raw=true" height = "200" width= "200"> | <img src= "https://user-images.githubusercontent.com/66030812/149973451-a3e9f436-ed62-4aa0-8818-ef677c42db80.jpg?raw=true" height = "200" width= "200">
 
 
 
