@@ -78,6 +78,5 @@ Digital twin technology can be applied on many aspects, including Immersive simu
 <br>
 [Remote sensing technologies allow researchers to track small changes on a large scale and enable studies of far-flung places from the comfort and safety of home.](https://www.americanscientist.org/article/the-shift-to-a-birds-eye-view)
 
-# Funding
-This project is funded by Pennsylvania Department of Transportation under NOFO # 693JJ319NF00001.
-(test)
+
+
